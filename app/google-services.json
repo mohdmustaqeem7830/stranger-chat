@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "318832300189",
+    "project_id": "stranger-chat-5dae1",
+    "storage_bucket": "stranger-chat-5dae1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318832300189:android:583c0f58f3498a1791c474",
+        "android_client_info": {
+          "package_name": "mustaqeem.zubair.strangerchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318832300189-n6s9ldsoqehqc5ioutm2e4l8tghh9rfm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "mustaqeem.zubair.strangerchat",
+            "certificate_hash": "d401f51c66b8729ae7cca916914ff8f1fc8f79cb"
+          }
+        },
+        {
+          "client_id": "318832300189-84d1hkb2i971onjt0v57fnhuh1ld80lr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6gawqRiJqPUQFMcJFCb0hM5tA3U14DnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318832300189-84d1hkb2i971onjt0v57fnhuh1ld80lr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
